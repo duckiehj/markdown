@@ -23,3 +23,11 @@ Unordered List:
 Ordered List: 
 1. First Item
 2. Second Item
+
+This is a link:
+[Google's Website](http;//www.google.com)
+
+This is a image:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+![Store Window covered with with baloon with text](images/image1.png)
